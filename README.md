@@ -1,7 +1,5 @@
 ### user @SydneyLoats
 ### My name is Sydney Loats and I am a second year computational engineering student at the University of Texas at Austin
-### I am searching for internship, co-op, or research opportunities to gain experience with software, engineering, data science, and analytics
-### Reach me via email at sydneyloats@gmail.com
 
 <!--
 **SydneyLoats/SydneyLoats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
