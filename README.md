@@ -1,5 +1,5 @@
 ### user @SydneyLoats
-### My name is Sydney Loats and I am a second year computational engineering student at the University of Texas at Austin
+### My name is Sydney Loats and I am a third year computational engineering student at the University of Texas at Austin
 
 <!--
 **SydneyLoats/SydneyLoats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
